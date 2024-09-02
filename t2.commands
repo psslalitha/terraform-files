@@ -1,0 +1,10 @@
+   2 terraform init
+   3 terraform validate
+   4 terraform plan
+   5 terraform apply
+   6 terraform apply
+   8 terraform destroy -auto-approve
+   9 ls
+  13 cp terraform.tfstate.backup terraform.tfstate
+  14 terraform validate
+  15 terraform apply
